@@ -1,24 +1,65 @@
-<h1 align="center">Hi 👋, I'm ali </h1>
-<h3 align="center">I am a learner and now a days I'm leaning ethical hacking</h3>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRnY2tpNmN5b3djbG9tbm1iaGJ4MDNoeWxwYzkxZWt1N2Q3Ym5paSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="420" style="max-width:100%;"/>
+</p>
 
-<p align="left"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNvZXZsamd1ZG95aTRrNnBldjNraTQ3YXV5MmJnMXlrd282eW9ydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" /> </p>
-<p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVtdmF1NHdtbjljOHVzaHI3ZXZ2bWZiOG1lZ3BicjU0ZGVkaGh1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0ILLVvPp8d64Jd6/giphy.gif" /> </p>
-<p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVtdmF1NHdtbjljOHVzaHI3ZXZ2bWZiOG1lZ3BicjU0ZGVkaGh1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyeheChYxx2byDu/giphy.gif" /> </p>
+<h1 align="center">ALi-Black-HaT 🖤🧪</h1>
+<p align="center">
+  <em>Learning cybersecurity & ethical hacking • Passionate about code, systems & exploring how things work</em>
+</p>
 
+<p align="center">
+  <img alt="Profile: ali-anon-team" src="https://img.shields.io/badge/GitHub-ali--anon--team-181717?style=for-the-badge&logo=github"/>
+  <img alt="Status" src="https://img.shields.io/badge/Status-Learning-yellow?style=for-the-badge&logo=learning"/>
+  <img alt="Years" src="https://img.shields.io/badge/Experience-3--4%20Years-blue?style=for-the-badge"/>
+</p>
 
-- 🔭 I’m currently working on **building my own skills**
+---
 
-- 🌱 I’m currently learning **networking and other level's of hacking.**
+## 👾 About me
+I'm **ALi-Black-HaT** (aka `ali-anon-team`) — explorer of networks, systems, and code.  
+I've been learning cybersecurity and ethical hacking for **3–4 years**. I love reverse engineering, penetration testing basics, automating tasks with Python, writing Java tools, and spending long nights with my laptop chasing bugs and exploits (the ethical kind 😉).
 
-- ⚡ Fun fact **I am a very young student and I have a strong bonding with my laptop, Like i'm very curious about teach things, I am nowadays trying learning some python and basic programming because I also love to code**
+---
 
+## ⚙️ Skills & Tools
+**Languages:** Python · Java · Bash · SQL  
+**Offensive / Research:** Nmap · Burp Suite · Metasploit · Wireshark · Recon-ng  
+**Dev & Automation:** Git · Docker · Bash scripting · Python automation  
+**OS:** Kali Linux · Parrot OS · Ubuntu  
+**Interests:** Red Teaming basics · Vulnerability research · Web & network security
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 Projects 
+- **auto-ops** — small Python scripts to automate recon & reporting  
+- **retro-shell** — terminal-themed utilities with a hacker aesthetic  
+- **javalyze** — Java-based logs analyzer for quick threat hunting  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-anon-team&show_icons=true&locale=en&layout=compact" alt="ali-anon-team" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-anon-team&show_icons=true&locale=en" alt="ali-anon-team" /></p>
+## 🧰 Tools I use (quick)
+- Kali / Parrot
+- VS Code / JetBrains
+- Termux (on mobile)
+- Burp Suite Community
+- Docker
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-anon-team&" alt="ali-anon-team" /></p>
+---
+
+## 📫 Contact
+- GitHub: `https://github.com/ali-anon-team`  
+
+---
+
+## 📊 GitHub & stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-anon-team&show_icons=true&theme=dark&hide_border=true" alt="ALi-Black-HaT's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-anon-team&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🎛️ Thanks for Watching 
